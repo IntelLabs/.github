@@ -1,4 +1,4 @@
-![Welcome to Intel Labs](https://github.com/intel/.github/blob/main/profile/images/intel-labs-horizontal-rgb-72.png) 
+![Welcome to Intel Labs](https://github.com/IntelLabs/.github/blob/main/profile/images/intel-labs-horizontal-rgb-72.png) 
 
 ## Intel is committed to open ecosystems
 
