@@ -1,5 +1,8 @@
 ![Welcome to Intel Labs](https://github.com/IntelLabs/.github/blob/main/profile/images/intel-labs-horizontal-rgb-72.png) 
-TECHNOLOGY FOR EVERYONE. Life-improving technologies are already here – they just aren’t evenly distributed. Innovation thrives in collaborative environments that encourage the free exchange of ideas. Intel Labs is committed to building an open ecosystem that’s transparent, secure and accessible to all. From code contributions and sponsorships to a worldwide network of engineers and community maintainers, we support hundreds of open source projects.
+
+## Technology For Everyone  
+
+Life-improving technologies are already here – they just aren’t evenly distributed. Innovation thrives in collaborative environments that encourage the free exchange of ideas. Intel Labs is committed to building an open ecosystem that’s transparent, secure and accessible to all. From code contributions and sponsorships to a worldwide network of engineers and community maintainers, we support hundreds of open source projects.  
 
 ## Learn more about Intel Labs
 [About Intel Labs](https://www.intel.com/content/www/us/en/research/about-labs.html?wapkw=intel%20labs)
