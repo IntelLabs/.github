@@ -1,4 +1,6 @@
-![Welcome to Intel Labs](https://github.com/IntelLabs/.github/blob/main/profile/images/intel-labs-horizontal-rgb-72.png) 
+<picture>
+  <img alt="Welcome to Intel Labs" src="https://github.com/IntelLabs/.github/blob/main/profile/images/intel-labs-horizontal-rgb-72.png" height="92" />
+</picture>  
 
 ## Technology For Everyone  
 
